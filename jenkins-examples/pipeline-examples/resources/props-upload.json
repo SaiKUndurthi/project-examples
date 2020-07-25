@@ -3,7 +3,7 @@
     {
       "pattern": "jenkins-examples/pipeline-examples/resources/MySql.Data.8.0.16.nupkg",
       "target": "libs-snapsh-local/org/sonarsource/sonarlint/eclipse/org.sonarlint.eclipse.site/",
-      "props": "p1=v1;p2=v2"
+      "props": "VERSION=8.8.8;TYPE=build.lyve_pilot.bin;MAESTRO_GIT_COMMIT=01f57a75abf6e527d74487d7afe790bd86e6da2a;CLIENT_GIT_COMMIT=b7f07b226991ebab3f41010531d067c265ab99a6;CLIENT_BRANCH=origin/master;"
     },
     {
       "pattern": "jenkins-examples/pipeline-examples/resources/m@!erge-@options-master.zip",
